@@ -1,5 +1,2 @@
 # testrepo1
 blah blah blah
-dfgndfgn
-zxvxcv
-zxcvzxcvasdfas
